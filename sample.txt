@@ -1,2 +1,3 @@
 A short message.
 Another line of text.
+Let's simulate a mege conflict!
