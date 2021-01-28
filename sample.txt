@@ -1,1 +1,2 @@
 A short message.
+Another line of text.
